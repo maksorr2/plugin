@@ -1,0 +1,4 @@
+name: Test
+version: '${version}'
+main: me.kody.test.Test
+api-version: '1.19'
